@@ -1,4 +1,4 @@
-package com.mindflow.pattern.proxy.service;
+gipackage com.mindflow.pattern.proxy.service;
 
 /**
  * ${DESCRIPTION}
